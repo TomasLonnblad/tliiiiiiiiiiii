@@ -56,8 +56,8 @@ export const navLinks = [
     title: "Work",
   },
   {
-    id: "https://tomaslonnblad.github.io/",
-    title: "Projects",
+    id: "",
+    title: "",
   },
   {
     id: "achievements",
