@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-import { navLinks } from "../constants/index";
+import { navLinks } from "https://tomaslonnblad.github.io/";
 import {  menu, close } from "../assets";
 import logo from "../assets/hasan-sattar1.svg"
 
@@ -38,7 +38,7 @@ const Navbar = () => {
     >
       <div className='w-full flex justify-between items-center max-w-7xl mx-auto'>
         <Link
-          href={'/https://tomaslonnblad.github.io/'}
+          href={'/'}
           className='flex items-center gap-2'
           onClick={() => {
             setActive("");
