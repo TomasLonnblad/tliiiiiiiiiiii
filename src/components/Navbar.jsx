@@ -38,10 +38,10 @@ const Navbar = () => {
     >
       <div className='w-full flex justify-between items-center max-w-7xl mx-auto'>
         <Link
-          href={'/https://tomaslonnblad.github.io/'}
+          href={'/'}
           className='flex items-center gap-2'
           onClick={() => {
-            setActive("");
+            setActive("false");
             window.scrollTo(0, 0);
           }}
         >
