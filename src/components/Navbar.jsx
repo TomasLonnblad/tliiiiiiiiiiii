@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-import { navLinks } from "https://tomaslonnblad.github.io/";
+import { navLinks } from "../constants/index";
 import {  menu, close } from "../assets";
 import logo from "../assets/hasan-sattar1.svg"
 
