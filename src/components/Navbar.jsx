@@ -91,7 +91,7 @@ const Navbar = () => {
                     setActive(nav.title);
                   }}
                 >
-                  <a href={`https://tomaslonnblad.github.io/`}>{nav.title}</a>
+                  <a href={``}>{nav.title}</a>
                 </li>
               ))}
             </ul>
