@@ -693,7 +693,7 @@ const achievements = [
     name: "Introduction to HTML5",
     image: c1,
     liveUrl:
-      "https://www.coursera.org/account/accomplishments/certificate/5E7GGZG9DAFZ",
+      "https://tomaslonnblad.github.io/",
   },
   {
     name: "AI For Everyone",
