@@ -217,7 +217,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Hasan optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Tomas optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
