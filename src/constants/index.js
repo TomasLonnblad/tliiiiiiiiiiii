@@ -319,7 +319,7 @@ const projects = [
     ],
     image: nftwhitelist,
     source_code_link:
-      "https://github.com/Hasansattar/ERC721_Nft_Whitelisting_website/tree/main/nft-erc721-and-web3model",
+      "https://tomaslonnblad.github.io/",
     liveUrl: "https://nft-whitelisting.netlify.app/",
     category: "fullstack",
     id: "4",
@@ -343,7 +343,7 @@ const projects = [
       },
     ],
     image: panaverse,
-    source_code_link: "https://github.com/Hasansattar/Panaverse-dao-website",
+    source_code_link: "https://tomaslonnblad.github.io/",
     liveUrl: "https://panaverse-dao-website.netlify.app/",
     category: "frontend",
     id: "5",
@@ -535,7 +535,7 @@ const projects = [
       },
     ],
     image: animated,
-    source_code_link: "https://github.com/Hasansattar/website_animated",
+    source_code_link: "https://tomaslonnblad.github.io/",
     liveUrl: "http://animated-website-project4b.surge.sh/",
     category: "frontend",
     id: "13",
@@ -559,8 +559,8 @@ const projects = [
       },
     ],
     image: expencetraker,
-    source_code_link: "https://github.com/Hasansattar/EXPENSE_TRACKER_APP",
-    liveUrl: "http://hasansattar2.surge.sh/",
+    source_code_link: "https://tomaslonnblad.github.io/",
+    liveUrl: "https://tomaslonnblad.github.io/",
     category: "frontend",
     id: "14",
   },
@@ -584,7 +584,7 @@ const projects = [
     ],
     image: nftwhitelist,
     source_code_link:
-      "https://github.com/Hasansattar/ERC721_Nft_Whitelisting_website/tree/main/nft-erc721-and-web3model",
+      "https://tomaslonnblad.github.io/",
     liveUrl: "https://nft-whitelisting.netlify.app/",
     category: "web3",
     id: "15",
@@ -608,7 +608,7 @@ const projects = [
       },
     ],
     image: stopwatch,
-    source_code_link: "https://github.com/Hasansattar/STOP_WATCH_TYPESCRIPT",
+    source_code_link: "https://tomaslonnblad.github.io/",
     liveUrl: "https://stop-watch-timer.surge.sh/",
     category: "frontend",
     id: "16",
@@ -632,7 +632,7 @@ const projects = [
       },
     ],
     image: dairapp,
-    source_code_link: "https://github.com/Hasansattar/DIARY_APP",
+    source_code_link: "https://tomaslonnblad.github.io/",
     liveUrl: "https://personal-diary.surge.sh/",
     category: "frontend",
     id: "17",
@@ -680,8 +680,8 @@ const projects = [
       },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/Hasansattar/3D-Portfolio_website_using_Sanity_CMS",
-    liveUrl: "https://hasansattar-portfolio1.netlify.app/",
+    source_code_link: "https://tomaslonnblad.github.io/",
+    liveUrl: "https://tomaslonnblad.github.io/",
     category: "frontend",
     id: "19",
   },
@@ -699,37 +699,37 @@ const achievements = [
     name: "AI For Everyone",
     image: c2,
     liveUrl:
-      "https://www.coursera.org/account/accomplishments/certificate/CPYCJZZDCM5P",
+      "https://tomaslonnblad.github.io/",
   },
   {
     name: "Technical Support",
     image: c3,
     liveUrl:
-      "https://www.coursera.org/account/accomplishments/certificate/JUANN4RH5E8T",
+      "https://tomaslonnblad.github.io/",
   },
   {
     name: "Python Learning",
     image: c4,
     liveUrl:
-      "https://www.coursera.org/account/accomplishments/certificate/YMKGKYFZW5CP",
+      "https://tomaslonnblad.github.io/",
   },
   {
     name: "Technical Course",
     image: c5,
     liveUrl:
-      "https://drive.google.com/file/d/1Ml6jZi9skU55xO9shTElDY3HcqKRO_To/view?usp=sharing",
+      "https://tomaslonnblad.github.io/",
   },
   {
     name: "Blockchain Developer",
     image: c6,
     liveUrl:
-      "https://drive.google.com/file/d/1ZYpD30FeW8o0GzvLCv3fhVhXtT28q0Mo/view?usp=sharing",
+      "https://tomaslonnblad.github.io/",
   },
   {
     name: "Java by sololearn",
     image: c7,
     liveUrl:
-      "https://www.sololearn.com/certificates/CT-UJQM2QQC",
+      "https://tomaslonnblad.github.io/",
   },
 ];
 
