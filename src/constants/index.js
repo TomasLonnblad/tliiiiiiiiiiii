@@ -201,7 +201,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Hasan proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Tomas proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -209,7 +209,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Hasan does.",
+      "I've never met a web developer who truly cares about their clients' success like Tomas does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
