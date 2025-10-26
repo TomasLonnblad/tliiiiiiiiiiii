@@ -65,7 +65,7 @@ const ComputersCanvas = () => {
       frameloop='demand'
       shadows
       dpr={[1, 2]}
-      camera={{ position: [1, 1, 20], fov: 70 }}
+      camera={{ position: [1, 1, 15], fov: 70 }}
       gl={{ preserveDrawingBuffer: true }}
     >
       <Suspense fallback={<CanvasLoader />}>
@@ -74,7 +74,7 @@ const ComputersCanvas = () => {
           enableZoom = {true}
           autoRotate = {true}
           enablePan = {true}
-          maxPolarAngle={Math.PI / 30}
+          maxPolarAngle={Math.PI / 20}
           minPolarAngle={Math.PI / 2}
         />
         <Computers isMobile={isMobile} />
