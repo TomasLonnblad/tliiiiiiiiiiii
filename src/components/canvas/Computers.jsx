@@ -65,7 +65,7 @@ const ComputersCanvas = () => {
       frameloop='demand'
       shadows
       dpr={[1, 2]}
-      camera={{ position: [1, 1, 15], fov: 70 }}
+      camera={{ position: [1, 1, 15], fov: 30 }}
       gl={{ preserveDrawingBuffer: true }}
     >
       <Suspense fallback={<CanvasLoader />}>
