@@ -1,6 +1,6 @@
 import React, { Suspense } from "react";
 
-import React, {  useEffect, useState } from "react";
+import React, {  useEffect, } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 
