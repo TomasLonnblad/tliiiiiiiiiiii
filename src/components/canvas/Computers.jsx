@@ -1,5 +1,7 @@
-import React, { Suspense, useEffect, useState } from "react";
 
+
+import React, { Suspense, useEffect, useState } from "react";
+import { useCallback } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 
@@ -65,7 +67,7 @@ const ComputersCanvas = () => {
       frameloop='demand'
       shadows
       dpr={[1, 2]}
-      camera={{ position: [0.1, 5, 180], fov: 70 }}
+      camera={{ position: [1, 1, 0.2], fov: 70 }}
       gl={{ preserveDrawingBuffer: true }}
     >
       <Suspense fallback={<CanvasLoader />}>
@@ -74,7 +76,7 @@ const ComputersCanvas = () => {
           enableZoom = {true}
           autoRotate = {true}
           enablePan = {true}
-          maxPolarAngle={Math.PI / 40}
+          maxPolarAngle={Math.PI / 30}
           minPolarAngle={Math.PI / 2}
         />
         <Computers isMobile={isMobile} />
@@ -89,4 +91,12 @@ const ComputersCanvas = () => {
 
 
 export default ComputersCanvas;
+
+
+
+
+
+
+
+
 
